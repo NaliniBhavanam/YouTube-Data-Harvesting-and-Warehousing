@@ -5,7 +5,7 @@
 
 ### *Introduction:*
 
-YouTube, founded in 2005, has evolved into the second largest search engine globally, processing over 3 billion searches per month. Despite its popularity, the workings of the YouTube algorithm remain shrouded in mystery. YouTube boasts one of the most sophisticated recommendation systems.
+YouTube, established in 2005, has grown into the world's second-largest search engine, handling more than 3 billion searches each month. Despite its immense popularity, the inner workings of the YouTube algorithm remain enigmatic. YouTube prides itself on having one of the most advanced recommendation systems in the digital realm
 
 This project focuses on retrieving data from the YouTube API using an API key and channel ID. The collected data is then stored in MongoDB and subsequently migrated to a MySQL data warehouse. Python code is utilized to execute all processes, while the Streamlit framework is employed to display the results, facilitating user interaction with the web application.
 
